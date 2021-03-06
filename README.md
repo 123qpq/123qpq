@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **123qpq/123qpq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,12 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## hello world!
-<img src="https://img.shields.io/badge/Python-0078ff?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-148cff?style=flat-square&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-28a0ff?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mysql-3cb4ff?style=flat-square&logo=Mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-5abeff?style=flat-square&logo=flutter&logoColor=white"/>
+## hello world! 👋
+<img src="https://img.shields.io/badge/Python-0078ff?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-148cff?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Django-28a0ff?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Mysql-3cb4ff?style=flat-square&logo=Mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-5abeff?style=flat-square&logo=flutter&logoColor=white"/>
 
 ![Kyopark's github stats](https://github-readme-stats.vercel.app/api?username=123qpq&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=123qpq)](https://solved.ac/123qpq)
