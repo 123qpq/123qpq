@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## hello world! 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F123qpq&count_bg=%23B93EF5&title_bg=%23000000&icon=apple.svg&icon_color=%23FF1E1E&title=hello%21&edge_flat=false)](https://hits.seeyoufarm.com)
-🙋‍♂️ Thank you for visit!  
-👨‍🎓 I'm a sophomore in a college.  
-🤖 My major is Robotics.  so I'm interested in 'Data Science' and 'ROS'.
+### 🙋‍♂️ Thank you for visit!  
+### 👨‍🎓 I'm a sophomore in a college.  
+### 🤖 My major is Robotics.  so I'm interested in 'Data Science' and 'ROS'.
 
 
 <img src="https://img.shields.io/badge/Python-0078ff?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-148cff?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Django-28a0ff?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Mysql-3cb4ff?style=flat-square&logo=Mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-5abeff?style=flat-square&logo=flutter&logoColor=white"/>
