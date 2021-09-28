@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 ## I'm join in 80000coding project -> [팔만코딩경](https://80000coding.oopy.io)
 
+Open_SW_bank - drowsiness perception project (2021.07~ )
+
 <img src="https://img.shields.io/badge/Python-0078ff?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-148cff?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Django-28a0ff?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Mysql-3cb4ff?style=flat-square&logo=Mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-5abeff?style=flat-square&logo=flutter&logoColor=white"/>
 
 ![Kyopark's github stats](https://github-readme-stats.vercel.app/api?username=123qpq&show_icons=true)
